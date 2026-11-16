@@ -58,19 +58,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sedratul-29&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
