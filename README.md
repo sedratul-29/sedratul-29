@@ -58,4 +58,17 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sedratul-29&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedratul-29&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sedratul-29&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
 ⭐ Thanks for visiting my profile!
