@@ -6,7 +6,7 @@ Full-Stack Web Development | JavaScript | React.js | Next.js | Node.js | Express
 
 ---
 
-## ## 🚀 About Me
+## 🚀 About Me
 
 - 🌱 I'm continuously learning and exploring modern technologies
 - 🛠️ Full-Stack Web Development
