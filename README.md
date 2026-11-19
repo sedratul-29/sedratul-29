@@ -1,7 +1,7 @@
 # 👋 About Me:
 
 ## Hi there 👋, I'm MD Sedratul Muntahar
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8¢er=false&vCenter=true&repeat=true&width=900&lines=Hi+there+%F0%9F%91%8B%2C+I'm+MD+Sedratul+Muntahar;CSE+Undergraduate+at+University+of+Rajshahi;Full-Stack+Web+Development+%7C+JavaScript+%7C+React.js+%7C+Next.js;Node.js+%7C+Express.js+%7C+Tailwind+CSS+%7C+Exploring+AI%2FML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8¢er=false&vCenter=true&repeat=true&width=600&lines=MD+Sedratul+Muntahar;University+of+Rajshahi)](https://git.io/typing-svg)
 
 🎓 CSE Undergraduate at University of Rajshahi
 
